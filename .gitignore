@@ -22,6 +22,7 @@ gtest-1.7.0
 /Debug
 /visualc/Debug
 /visualc/Release
+/visualc/x64
 /visualc/gumbo.sdf
 /visualc/gumbo.opensdf
 /build
